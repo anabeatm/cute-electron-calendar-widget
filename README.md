@@ -2,7 +2,7 @@
 
 A simple, aesthetic desktop calendar widget built with **Electron**. This application displays the current date in a cute, compact, and semi-transparent window that sits perfectly on your desktop.
 
-![Project Preview](https://via.placeholder.com/600x400?text=App+Preview+Placeholder)
+![Project Preview](C:\Users\anabe\electron-calendar\sheets\calendar-preview.png)
 
 > _Note: Imagine a cute pink calendar here!_
 
